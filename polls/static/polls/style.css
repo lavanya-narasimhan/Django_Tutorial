@@ -1,5 +1,7 @@
 li a {
-    color: green;
+    color: white;
+    position: center;
+    font-family: "Lucida Grande";
 }
 
 body {
