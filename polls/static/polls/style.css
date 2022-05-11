@@ -1,0 +1,9 @@
+li a {
+    color: white;
+    position: center;
+    font-family: "Lucida Grande";
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
